@@ -1,0 +1,13 @@
+Name                 Stmts   Miss  Cover
+----------------------------------------
+src/app.py              33     14    58%
+src/connection.py       10      0   100%
+src/exceptions.py        6      0   100%
+src/feed.py             22      0   100%
+src/payment.py          12      0   100%
+src/user.py             59      0   100%
+tests/test_app.py       25      0   100%
+tests/test_feed.py      68      0   100%
+tests/test_user.py      73      0   100%
+----------------------------------------
+TOTAL                  308     14    95%
